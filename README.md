@@ -4,10 +4,10 @@
   <img src="https://img.shields.io/badge/-JavaScript-yellow" />
   <img src="https://img.shields.io/badge/-OOP-red" />
   <img src="https://img.shields.io/badge/-JSON-blue" />
-  <img src="https://img.shields.io/badge/-Express-blueviolet" />
+  <img src="https://img.shields.io/badge/-Express-gold" />
   <img src="https://img.shields.io/badge/UUID-orange"  />
   <img src="https://img.shields.io/badge/-Node-green" />
-  <img src="https://img.shields.io/badge/-Heroku-grey" />
+  <img src="https://img.shields.io/badge/-Heroku-purple" />
 </p>
 
 ## Description
